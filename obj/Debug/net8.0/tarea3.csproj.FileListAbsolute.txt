@@ -27,3 +27,4 @@ C:\C#\tarea3\tarea3\obj\Debug\net8.0\refint\tarea3.dll
 C:\C#\tarea3\tarea3\obj\Debug\net8.0\tarea3.pdb
 C:\C#\tarea3\tarea3\obj\Debug\net8.0\tarea3.genruntimeconfig.cache
 C:\C#\tarea3\tarea3\obj\Debug\net8.0\ref\tarea3.dll
+C:\C#\tarea3\tarea3\obj\Debug\net8.0\tarea3.sourcelink.json
